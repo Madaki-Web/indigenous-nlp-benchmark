@@ -4,6 +4,11 @@
 **Course:** CSC 406 — Artificial Intelligence  
 **Assignment:** Indigenous Language AI Benchmark  
 **Date:** 2026-08-30
+Members Activiti
+1. Nuhu Muhammad Datti (U22/FNS/CSC/1105)
+2. Mahmud Abubakar Madaki (U22/FNS/CSC/1091)
+
+
 
 ## Abstract
 
